@@ -1,0 +1,1 @@
+<img src="{{ asset('build/assets/Logo%20MI%20AL-MANAR.png') }}" alt="New Logo" class="h-20 w-auto">
